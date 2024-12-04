@@ -1,4 +1,4 @@
-module github.com/jaredstewart/AoC/25/1
+module github.com/jaredstewart/AoC/24/1
 
 go 1.22.4
 
